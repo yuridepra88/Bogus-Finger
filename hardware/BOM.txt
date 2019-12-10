@@ -1,0 +1,31 @@
+List of material needed:
+
+Pre-assembled:
+- Commercial Slide-Stroke Z-Axis CNC linear actuator with at least 4 kg/cm torque (e.g. https://www.banggood.com/150mm-Slide-Stroke-Z-Axis-Mini-CNC-Linear-Motion-Milling-Engraving-Machine-p-1124302.html)
+- Motor control driver for NEMA 17 motors (e.g. https://www.banggood.com/HANPOSE-TB6600-Stepper-Motor-Driver-4A-DC9-42V-For-Nema-17-or-23-or-34-Stepper-Motor-CNC-Engraving-Machine-p-1415418.html)
+- Arduino Mega 2560 (for other models just change pin assignment)
+- Display LCD 1602 I2C (e.g https://www.dfrobot.com/product-135.html)
+- 9V 1A power supply
+
+Electronics:
+- CZL635 load cell (0-5Kg)
+- INA125P amplifier
+- 1 x 47ohm resistance
+- 3 x buttons
+- 1 x switch
+- 1 x 2.5V LED
+
+Supports:
+- Solid base (wood or metal)  140x140x30
+- Metal profile 50x50x250 to hold the slide stroke
+- 3x metal corner braces 200x40x40 to firmly fix the metal profile to the base
+- 1x metal corner brace 50x40 to hold the load cell
+- 2x rubber shock absorbers M4 (e.g. https://www.alibaba.com/product-detail/2019-Amazon-hot-sale-M4-Rubber_62270287696.html)
+- metal profile 12x8x140 to maintain the silde stroke vertically aligned
+
+
+Custom pieces (see list of drawings for 3D printing):
+- command box 
+- accelerometer holders (optional)
+- mold for silicon part
+
