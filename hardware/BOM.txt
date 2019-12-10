@@ -11,9 +11,9 @@ Electronics:
 - CZL635 load cell (0-5Kg)
 - INA125P amplifier
 - 1 x 47ohm resistance
-- 3 x buttons
-- 1 x switch
-- 1 x 2.5V LED
+- 3 x push buttons
+- 1 x on/off switch
+- 1 x 2.5V LED (optional)
 
 Supports:
 - Solid base (wood or metal)  140x140x30
