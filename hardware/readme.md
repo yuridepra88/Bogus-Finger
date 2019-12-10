@@ -1,6 +1,10 @@
+Information about the files
+
+- BOM.txt contains the list of the materials needed to build the Bogus Finger and some link to commercial sites where they can be found.
+- The images in /drawings/renders/ will guide you in building the device. If any doubts, open /drawings/bogus_finger.stl to disassemble the 3D model. 
+
 How to build the Bogus Finger device
 
-- The images in /drawings/renders/ will guide you in building the device 
 - screw the metal frame A (250x50x50) to the base (140x140) using 3 metal braces: 2 to the sides, one on the rear
 - fix the metal frame B (12x8x140) to the base right in front of the metal vetical frame A
 - screw firmly the linear stroke to the vertical metal frame A: the base of the metal stroke should contact the frame B
