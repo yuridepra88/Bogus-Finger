@@ -2,6 +2,7 @@ Information about the files
 
 - BOM.txt contains the list of the materials needed to build the Bogus Finger and some link to commercial sites where they can be found.
 - The images in /drawings/renders/ will guide you in building the device. If any doubts, open /drawings/bogus_finger.stl to disassemble the 3D model. 
+- fritzing project is just used as connection schema for electronics
 
 How to build the Bogus Finger device
 
