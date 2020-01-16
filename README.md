@@ -17,7 +17,7 @@ Open-hardware device for realistic finger-pressing simulation
 	1. 3D models (made with [Tinkercad](https://www.tinkercad.com/))
 	2. electronics schematics (made with [Fritzing](http://fritzing.org))
 	3. list of required hardware
-  4. intructions to build it
+  4. instructions to build it
   5. renders of the final device
 
 ---
