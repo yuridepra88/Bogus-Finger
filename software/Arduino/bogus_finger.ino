@@ -11,7 +11,6 @@
 
 const int number_func = 5;
 
-char buf[30];
 
 long X=0;
 long NX=0;
@@ -335,11 +334,11 @@ void MoveForce(){
      }else{
        readLoadCell();
        
-       //sprintf(buf,"%s%f","Force_",current_force); 
-       //String str = "Force_" + String(current_force);
-      // Serial.println(str);
-       //Serial.print("Force_");
-       //Serial.println(current_force);
+      //if you send the force value add a 2ms delay to avoid broken packets
+      //String str = "Force_" + String(current_force);
+      //Serial.println(str);
+      //delay(2);
+       
 
         
        
@@ -534,6 +533,7 @@ void loop(){
     if (inputString=="zero\n")       {SetZero();}
     if (inputString=="stop\n")       {StopMeRemote();}
     if (inputString=="home\n")       {GoHome();}
+    if (inputString=="help\n")       {Help();}
     if (inputString !="") {Serial.println("BAD_COMMAND="+inputString);}
        
     inputString = ""; 
