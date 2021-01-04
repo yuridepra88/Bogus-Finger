@@ -1,5 +1,5 @@
 # Bogus-Finger
-Open-hardware device for realistic finger-pressing simulation
+A device for realistic finger-pressing simulation
 
 
 ![Bogus Finger view](./hardware/drawings/renders/bogus_finger_total_1.png)
@@ -17,8 +17,8 @@ Open-hardware device for realistic finger-pressing simulation
 	1. 3D models (made with [Tinkercad](https://www.tinkercad.com/))
 	2. electronics schematics (made with [Fritzing](http://fritzing.org))
 	3. list of required hardware
-  4. instructions to build it
-  5. renders of the final device
+  4. instructions to build the device
+  5. renders of the device (step-by-step construction)
 
 ---
 
