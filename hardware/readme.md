@@ -4,6 +4,7 @@ Information about the files
 - The images in /drawings/renders/ will guide you in building the device. If any doubts, open /drawings/bogus_finger.stl to disassemble the 3D model. 
 - fritzing project is just used as connection schema for electronics
 
+
 How to build the Bogus Finger device
 
 - screw the metal frame A (250x50x50) to the base (140x140) using 3 metal braces: 2 to the sides, one on the rear
