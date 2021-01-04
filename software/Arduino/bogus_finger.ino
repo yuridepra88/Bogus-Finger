@@ -14,7 +14,7 @@ const int number_func = 5;
 
 long X=0;
 long NX=0;
-int MoveSpeed=600; //step in Microseconds
+int MoveSpeed=600; //microseconds between steps
 String     inputString = ""; // a string to hold incoming data
 boolean stringComplete = true;     // whether the string is completet
 boolean        ComData = false;    // whether com data is on when motors are moving will slow them down
@@ -362,7 +362,7 @@ void MoveForce(){
               X = X+1;
           }
        }else{
-          // force apply, static point
+          // force applied, start to hold 
           if (!isHolding){
             Serial.println("Event_Hold");
           }
